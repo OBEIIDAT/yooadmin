@@ -1,8 +1,19 @@
 .DS_Store
 Thumbs.db
+
+# Node / Build
 node_modules/
 vendor/
+
+# Logs & Archives
 *.log
 *.zip
+*.tar
+*.gz
+
+# IDE
 .idea/
 .vscode/
+
+# OS files
+Desktop.ini
